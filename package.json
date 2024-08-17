@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@inquirer/input": "^2.2.9"
+  }
+}
